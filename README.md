@@ -16,7 +16,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 clone
 
-    git clone https://github.com/LazyVim/starter ~/.config/nvim
+
+    git clone https://github.com/kEpEx/nvim-config.git ~/.config/nvim
 
 Delete
 
